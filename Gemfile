@@ -33,6 +33,7 @@ group :production do
 end
 
 #css/web design
+gem "font-awesome-rails"
 gem 'font-awesome-sass'
 gem "spring-commands-rspec"
 
